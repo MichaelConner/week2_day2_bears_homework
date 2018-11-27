@@ -6,8 +6,4 @@ attr_reader :name
     @name = name
   end
 
-
-
-
-
 end
