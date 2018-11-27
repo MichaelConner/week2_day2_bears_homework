@@ -1,4 +1,4 @@
-class bears
+class Bears
 
 def initialize()
 end
